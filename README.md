@@ -1,11 +1,11 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white?longCache=true&style=flat-square) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&longCache=true&style=flat-square)](https://flutter.dev/)
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://github.com/Solido/awesome-flutter) [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg?longCache=true&style=flat-square)](https://pub.dev/packages/lint) 
 
-# Space Empires 🛸
+# PLANET VERSE 🛸
 
 ### Introduction 🚀
 
-> Space Empires
+> PLANET VERSE
 A 4X Space themed Strategy Game made with Flutter
 
 ## Features ⚡ 
